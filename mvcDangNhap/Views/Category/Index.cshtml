@@ -1,0 +1,48 @@
+﻿@model IEnumerable<mvcDangNhap.Models.Category>  
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div class="container">
+    <form action="/Category/Index" method="post">
+
+        <div class="form-group">
+            <input type="text" class="form-control" id="txtsearch" placeholder="Nhập tên để tìm" name="txtsearch" />
+            <button class="btn btn-primary" type="submit">Tìm</button>
+            <a class="btn btn-primary" href="~/Category/Create">Thêm mới</a>
+        </div>
+
+
+    </form>
+
+
+    <table class="table-bordered table-hover">
+        <thead>
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Sửa</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td><a href="~/Category/Edit/@item.ID">Sửa</a></td>
+                    <td>
+                        <a href="~/Category/Delete/@item.ID">Xóa</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

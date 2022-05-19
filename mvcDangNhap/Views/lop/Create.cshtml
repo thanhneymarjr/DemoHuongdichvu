@@ -1,0 +1,35 @@
+﻿@model  mvcDangNhap.Models.lop
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thêm mới</h2>
+
+@using (Html.BeginForm("Create", "lop", FormMethod.Post, new { @id = "frmlop", @name = "frmlop" }))
+{
+
+
+    <div class="form-group">
+        <label for="TenSV">Tên lớp</label>
+        @Html.TextBoxFor(m => m.TenLop, new { @class = "form-control", @Required = true, @minlength = 10, @maxlength = 50 })
+
+    </div>
+    <div class="form-group">
+        <label for="TenSV">Sỉ số</label>
+        @Html.TextBoxFor(m => m.siso, new { @class = "form-control", @Required = true, @minlength = 1, @maxlength = 100 })
+    </div>
+
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-success " value="Lưu">Lưu</button>
+
+    </div>
+
+}
+
+<div>
+
+    @Html.ActionLink("Quay về danh sách", "Index")
+</div>

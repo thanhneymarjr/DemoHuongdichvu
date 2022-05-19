@@ -1,0 +1,39 @@
+﻿<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Trang quản trị", "Index", "Home", new { area = "admin" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+         @if (Session["SESSION_GROUP"] != null)
+         {
+             List<string> privilegeLevels = (List<string>)Session["SESSION_GROUP"];
+
+             if (privilegeLevels[0].CompareTo("ADMIN") == 0)
+             {
+                    <li>@Html.ActionLink("Danh mục sản phẩm", "Index", "Category")</li>
+                    <li>@Html.ActionLink("Sản phẩm", "Index", "Product")</li>
+                    <li>@Html.ActionLink("Khách hàng", "Index", "KhachHang")</li>
+                    <li>@Html.ActionLink("Giới thiệu", "About", "GioiThieu")</li>
+                    <li>@Html.ActionLink("Đăng xuất", "SignOut", "Login")</li>
+                }
+                if (privilegeLevels[0].CompareTo("USER") == 0)
+                {
+
+                    <li>@Html.ActionLink("Giới thiệu", "About", "GioiThieu")</li>
+                    <li>@Html.ActionLink("Đăng xuất", "SignOut", "Login")</li>
+                }
+             }
+
+</ul>
+           
+        </div>
+      
+    </div>
+
+</div>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<mvcDangNhap.Models.Category> 
+
+    <table class="table-bordered table-hover">
+        <thead>
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Sửa</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td><a href="~/Category/Edit/@item.ID">Sửa</a></td>
+                    <td>
+                        <a href="~/Category/Delete/@item.ID">Xóa</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+

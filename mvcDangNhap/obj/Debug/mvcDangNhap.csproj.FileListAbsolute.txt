@@ -1,0 +1,344 @@
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\ApplicationInsights.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\csc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\vbc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\mvcDangNhap.dll.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Antlr3.Runtime.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.Web.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Newtonsoft.Json.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Helpers.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Mvc.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Optimization.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\WebGrease.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.Web.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Helpers.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Mvc.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Optimization.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Antlr3.Runtime.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\bin\Newtonsoft.Json.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap\mvcDangNhap\obj\Debug\mvcDangNhap.csprojResolveAssemblyReference.cache
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\ApplicationInsights.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\csc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\vbc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\mvcDangNhap.dll.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Antlr3.Runtime.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\EntityFramework.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\EntityFramework.SqlServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.Web.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Newtonsoft.Json.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Helpers.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Mvc.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Optimization.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\WebGrease.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\EntityFramework.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\EntityFramework.SqlServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.Web.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Helpers.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Mvc.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Optimization.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Antlr3.Runtime.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize\mvcDangNhap\bin\Newtonsoft.Json.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\ApplicationInsights.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\csc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\vbc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll.config
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\WebGrease.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.csprojResolveAssemblyReference.cache
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\ApplicationInsights.config
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\csc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\vbc.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll.config
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\WebGrease.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.pdb
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.xml
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+D:\01. NAM HOC 2019-2020\BAI GIANG NAM HOC 2019-2020\Asp.net\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\ApplicationInsights.config
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\csc.exe
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\vbc.exe
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll.config
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\mvcDangNhap.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\WebGrease.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\EntityFramework.SqlServer.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.Web.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Helpers.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Mvc.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Optimization.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.Razor.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Antlr3.Runtime.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\bin\Newtonsoft.Json.xml
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.csprojResolveAssemblyReference.cache
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+E:\mvcDangNhap_session_customAuthorize_SQL\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\ApplicationInsights.config
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\csc.exe
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\System.Collections.Immutable.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\System.Reflection.Metadata.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\vbc.exe
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\VBCSCompiler.exe
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\roslyn\VBCSCompiler.exe.config
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\mvcDangNhap.dll.config
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\mvcDangNhap.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\mvcDangNhap.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Antlr3.Runtime.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\EntityFramework.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\EntityFramework.SqlServer.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.Web.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.WindowsServer.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.ApplicationInsights.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.Web.Infrastructure.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Newtonsoft.Json.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Helpers.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Mvc.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Optimization.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Razor.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.Deployment.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.Razor.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\WebGrease.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\EntityFramework.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\EntityFramework.SqlServer.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.DependencyCollector.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.Web.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.AI.WindowsServer.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.ApplicationInsights.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Helpers.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Mvc.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Optimization.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.Razor.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.Deployment.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\System.Web.WebPages.Razor.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Antlr3.Runtime.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\Newtonsoft.Json.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.pdb
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\PagedList.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\PagedList.Mvc.dll
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\PagedList.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\bin\PagedList.Mvc.xml
+E:\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.dll
+C:\Users\Admin\Downloads\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap_session_customAuthorize_SQL_Admin_PhanQuyen\mvcDangNhap\obj\Debug\mvcDangNhap.pdb

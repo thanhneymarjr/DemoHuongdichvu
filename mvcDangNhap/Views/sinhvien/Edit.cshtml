@@ -1,0 +1,39 @@
+﻿@model  mvcDangNhap.Models.sinhvien
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Sửa</h2>
+@using (Html.BeginForm("Edit", "sinhvien", FormMethod.Post))
+{
+
+    <div class="form-group">
+        <label for="sv_id">sv_id</label>
+        @Html.TextBoxFor(m => m.sv_id, new { @class = "form-control", @readonly = "readonly" })
+
+    </div>
+    <div class="form-group">
+        <label for="TenSV">Tên sinh viên</label>
+        @Html.TextBoxFor(m => m.TenSV, new { @class = "form-control" })
+
+    </div>
+    <div class="form-group">
+        <label for="ma_lop">Chọn lớp</label>
+        @Html.DropDownList("ma_lop", null, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+
+        <button type="submit" class="btn btn-success " value="Lưu">Lưu</button>
+        <span class="text-danger">@ViewBag.StatusMessage</span>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Quay về danh sách", "Index")
+</div>
+
+
+

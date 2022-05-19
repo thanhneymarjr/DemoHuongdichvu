@@ -1,0 +1,118 @@
+﻿@model IEnumerable<mvcDangNhap.Models.sinhvien>
+@{
+    ViewBag.Title = "Index";
+  //  Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Index", "sinhvien", FormMethod.Post))
+{
+    <a class="btn btn-primary" href="~/sinhvien/Create">Thêm mới</a>
+
+}
+@section scripts{
+
+    <script src="~/Scripts/Controllers/sinhvien.js"></script>
+}
+
+
+
+<div class="form-group">
+    <label for="txtsearch">Search</label>
+    <input type="text" class="form-control" id="txtsearch" name="txtsearch" />
+</div>
+<div>
+    <table class="table table-bordered  table-striped">
+        <thead>
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Lop</th>
+                <th>Sửa</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody id="result">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.sv_id</td>
+                    <td>@item.TenSV</td>
+                    <td>@item.lop.TenLop</td>
+                    <td><a href="~/sinhvien/Edit/@item.sv_id">Sửa</a></td>
+
+                    <td>
+                        <a href="~/sinhvien/Delete/@item.sv_id">Xóa</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<h2>HIỂN THỊ BẰNG GỌI PROCEDURE (HIỂN THỊ 1 LỚP)</h2>
+<div>
+    <table class="table table-bordered  table-striped">
+        <thead>
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Lop</th>
+                <th>Sửa</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody id="result">
+            @foreach (var item in ViewBag.dssv_bysp)
+            {
+                <tr>
+                    <td>@item.sv_id</td>
+                    <td>@item.TenSV</td>
+                    <td>@item.ma_lop</td>
+                    <td><a href="~/sinhvien/Edit/@item.sv_id">Sửa</a></td>
+
+                    <td>
+                        <a href="~/sinhvien/Delete/@item.sv_id">Xóa</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<h2>HIỂN THỊ BẰNG GỌI TRUY VẤN LINQ (HIỂN THỊ 1 LỚP)</h2>
+<div>
+    <table class="table table-bordered  table-striped">
+        <thead>
+
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Lop</th>
+                <th>Sửa</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody id="result">
+            @foreach (var item in ViewBag.dssv_bylq)
+            {
+                <tr>
+                    <td>@item.sv_id</td>
+                    <td>@item.TenSV</td>
+                    <td>@item.ma_lop</td>
+                    <td><a href="~/sinhvien/Edit/@item.sv_id">Sửa</a></td>
+
+                    <td>
+                        <a href="~/sinhvien/Delete/@item.sv_id">Xóa</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

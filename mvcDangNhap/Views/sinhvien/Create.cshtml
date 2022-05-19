@@ -1,0 +1,36 @@
+﻿@model  mvcDangNhap.Models.sinhvien
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thêm mới</h2>
+
+@using (Html.BeginForm("Create", "sinhvien",FormMethod.Post, new { @id = "frmsv", @name = "frmsv" }))
+{
+
+
+    <div class="form-group">
+        <label for="TenSV">Tên sinh viên</label>        
+        @Html.TextBoxFor(m => m.TenSV, new { @class = "form-control", @Required = true, @minlength = 10, @maxlength=50 })
+
+
+       
+    </div>
+    <div class="form-group">
+        <label for="ma_lop">Chọn lớp</label>
+        @Html.DropDownList("ma_lop", null, new { @class = "form-control" })       
+    </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-success " value="Lưu">Lưu</button>
+            
+        </div>
+
+}
+
+<div>
+
+    @Html.ActionLink("Quay về danh sách", "Index")
+</div>

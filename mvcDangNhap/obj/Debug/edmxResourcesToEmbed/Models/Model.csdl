@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HocAspMVCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sanpham">
+    <Key>
+      <PropertyRef Name="sanpham_id" />
+    </Key>
+    <Property Name="sanpham_id" Type="Int32" Nullable="false" />
+    <Property Name="tensp" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GroupID" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Photo" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UserGroup">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="HocAspMVCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Category" EntityType="Self.Category" />
+    <EntitySet Name="sanpham" EntityType="Self.sanpham" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="UserGroup" EntityType="Self.UserGroup" />
+    <EntitySet Name="sinhvien" EntityType="HocAspMVCModel.sinhvien" />
+    <EntitySet Name="Order" EntityType="HocAspMVCModel.Order" />
+    <EntitySet Name="OrderDetail" EntityType="HocAspMVCModel.OrderDetail" />
+    <EntitySet Name="product" EntityType="HocAspMVCModel.product" />
+    <AssociationSet Name="FK_OrderDetail_Order" Association="HocAspMVCModel.FK_OrderDetail_Order">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderDetail" EntitySet="OrderDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderDetail_product" Association="HocAspMVCModel.FK_OrderDetail_product">
+      <End Role="product" EntitySet="product" />
+      <End Role="OrderDetail" EntitySet="OrderDetail" />
+    </AssociationSet>
+    <FunctionImport Name="sp_getsinhvien_byLop" ReturnType="Collection(HocAspMVCModel.sp_getsinhvien_byLop_Result)">
+      <Parameter Name="malop" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="lop" EntityType="HocAspMVCModel.lop" />
+    <AssociationSet Name="FK_sinhvien_lop" Association="HocAspMVCModel.FK_sinhvien_lop">
+      <End Role="lop" EntitySet="lop" />
+      <End Role="sinhvien" EntitySet="sinhvien" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sinhvien">
+    <Key>
+      <PropertyRef Name="sv_id" />
+    </Key>
+    <Property Name="sv_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ma_lop" Type="Int32" />
+    <NavigationProperty Name="lop" Relationship="HocAspMVCModel.FK_sinhvien_lop" FromRole="sinhvien" ToRole="lop" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="CustomerID" Type="Int64" />
+    <Property Name="ShipName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ShipMobile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ShipAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ShipEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" />
+    <NavigationProperty Name="OrderDetail" Relationship="HocAspMVCModel.FK_OrderDetail_Order" FromRole="Order" ToRole="OrderDetail" />
+  </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="ProductID" />
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="ProductID" Type="Int64" Nullable="false" />
+    <Property Name="OrderID" Type="Int64" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="Order" Relationship="HocAspMVCModel.FK_OrderDetail_Order" FromRole="OrderDetail" ToRole="Order" />
+    <NavigationProperty Name="product" Relationship="HocAspMVCModel.FK_OrderDetail_product" FromRole="OrderDetail" ToRole="product" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="cateid" Type="Int32" />
+    <Property Name="unit_price" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="image" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="created_at" Type="DateTime" Precision="0" />
+    <Property Name="updated_at" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="OrderDetail" Relationship="HocAspMVCModel.FK_OrderDetail_product" FromRole="product" ToRole="OrderDetail" />
+  </EntityType>
+  <Association Name="FK_OrderDetail_Order">
+    <End Type="HocAspMVCModel.Order" Role="Order" Multiplicity="1" />
+    <End Type="HocAspMVCModel.OrderDetail" Role="OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderDetail_product">
+    <End Type="HocAspMVCModel.product" Role="product" Multiplicity="1" />
+    <End Type="HocAspMVCModel.OrderDetail" Role="OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_getsinhvien_byLop_Result">
+    <Property Type="Int32" Name="sv_id" Nullable="false" />
+    <Property Type="String" Name="TenSV" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="ma_lop" Nullable="true" />
+  </ComplexType>
+  <EntityType Name="lop">
+    <Key>
+      <PropertyRef Name="lop_id" />
+    </Key>
+    <Property Name="lop_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenLop" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="siso" Type="Int32" />
+    <NavigationProperty Name="sinhvien" Relationship="HocAspMVCModel.FK_sinhvien_lop" FromRole="lop" ToRole="sinhvien" />
+  </EntityType>
+  <Association Name="FK_sinhvien_lop">
+    <End Type="HocAspMVCModel.lop" Role="lop" Multiplicity="0..1" />
+    <End Type="HocAspMVCModel.sinhvien" Role="sinhvien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="lop">
+        <PropertyRef Name="lop_id" />
+      </Principal>
+      <Dependent Role="sinhvien">
+        <PropertyRef Name="ma_lop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
